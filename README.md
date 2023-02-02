@@ -24,7 +24,9 @@ The project is done in three steps:
 
 This repository therefore contains the three Python files, the SQLite database, and one .html file with the map.
 
-Notably, whereas the 1st and 3rd programs take seconds to run, the 2nd program takes about an hour to run because you can only make one request per second on OpenStreetMap's API.
+N.B.1. The 2nd program takes about an hour to run because you can only make one request per second on OpenStreetMap's API.
+
+N.B.2. GitHub is not great with directly viewing .html files. You can see the map here: https://thierrygagne.github.io/PY4Ecertificate/ 
 
 Please feel free to reach out if you have questions (email: thierrygagne@gmail.com).
 
