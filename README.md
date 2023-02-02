@@ -2,9 +2,7 @@
 
 ## Prologue
 
-This README file describes the files uploaded that I developed as a personal capstone project for the PY4E certificate on Coursera:
-
-https://www.coursera.org/specializations/python
+This README file describes the files uploaded that I developed as a personal capstone project for the [PY4E certificate on Coursera](https://www.coursera.org/specializations/python).
 
 I really enjoyed it, so I encourage you to try it if you are curious about programming! 
 
