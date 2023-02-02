@@ -24,6 +24,8 @@ The project is done in three steps:
 
 This repository therefore contains the three Python files, the SQLite database, and one .html file with the map.
 
+The map show circles where a fine was made, with larger circles indicating larger fines.
+
 N.B.1. The 2nd program takes about an hour to run because you can only make one request per second on OpenStreetMap's API.
 
 N.B.2. GitHub is not great with directly viewing .html files. You can see the map here: https://thierrygagne.github.io/PY4Ecertificate/ 
