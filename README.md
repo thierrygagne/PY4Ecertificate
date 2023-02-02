@@ -10,7 +10,7 @@ It took me about three weeks to finish on a part-time basis.
 
 ## Introduction
 
-This project sought to produce a map of all commercial outlets who had a fine for food safety violations in the city of Montreal (since 2011).
+This project sought to produce a map of all 6411 commercial outlets that had a fine for food safety violations in the city of Montreal (since 2011).
 
 [The dataset can be found here](https://www.donneesquebec.ca/recherche/dataset/vmtl-inspection-aliments-contrevenants/resource/7f939a08-be8a-45e1-b208-d8744dca8fc6)
 
@@ -23,6 +23,8 @@ The project is done in three steps:
 3. Writing a 3rd Python program to visualise these coordinates using the Folium library.
 
 This repository therefore contains the three Python files, the SQLite database, and one .html file with the map.
+
+Notably, whereas the 1st and 3rd programs take seconds to run, the 2nd program takes about an hour to run because you can only make one request per second on OpenStreetMap's API.
 
 Please feel free to reach out if you have questions (email: thierrygagne@gmail.com).
 
